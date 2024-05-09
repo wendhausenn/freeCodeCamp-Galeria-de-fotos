@@ -1,1 +1,1 @@
-# freeCodeCamp-Galeria-de-fotos
+# freeCodeCamp - Galeria-de-fotos
